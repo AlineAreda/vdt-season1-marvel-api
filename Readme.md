@@ -50,12 +50,15 @@
 
 [Node.js](https://nodejs.org/) v16 ou superior para executar.
 
-Execute os comandos abaixo para instalar das dependências do projeto e execução dos testes:
+### ✨ Instalação e uso da arquitetura
 
 ```sh
-cd vdt-season1-marvel-api
-npm install
-npx cypress run
+- Instale o [Node.js](https://nodejs.org/en/download/);
+- Baixe este repositório ou faça um git clone;
+- Abra o diretório do projeto e execute o comando:
+    - `npm install`
+- Para abrir a interface de execução do Cypress, execute no diretório do projeto:
+    - `npx cypress open`
 ```
 
 ## 📝 License
