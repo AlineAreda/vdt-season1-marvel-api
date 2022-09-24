@@ -54,7 +54,7 @@ Execute os comandos abaixo para instalar das dependências do projeto e execuç�
 
 ```sh
 cd vdt-season1-marvel-api
-npm i
+npm install
 npx cypress run
 ```
 
