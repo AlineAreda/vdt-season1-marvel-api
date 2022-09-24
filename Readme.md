@@ -59,6 +59,8 @@
     - `npm install`
 - Para abrir a interface de execução do Cypress, execute no diretório do projeto:
     - `npx cypress open`
+- Para execução via linha de comando
+    - `npx cypress run`
 
 ## 📝 License
 
